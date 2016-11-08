@@ -3,6 +3,10 @@ ruby '2.3.1'
 
 ### RAILS ####
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
+# Awesome print
+gem 'awesome_print'
+
+gem 'meta_request'
 gem 'rails', '4.2.7'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
